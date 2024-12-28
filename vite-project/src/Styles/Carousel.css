@@ -1,0 +1,78 @@
+.Carousel2{
+height:320px;
+width:350px;
+margin:20px;
+border-radius:30px;
+background-color:black;
+}
+.Carousel_Main{
+background-color:#3d4045; 
+height:550px;
+border:2px solid  green;
+}
+.Carousel1{
+display:flex;
+}
+.Carousel3{
+background-color:#3d4045; 
+text-align:center;
+color:#ffffff;
+font-size:22px;
+margin-block-start:0;
+margin-block-end: 0;
+margin-bottom:20px;
+}
+.Carousel4{
+color:#eb596e;
+margin-block-start:0;
+margin-block-end: 0;
+}
+.carousel-image{
+height:180px;
+width:340px;
+position:relative;
+left:13px;
+top:7px;
+}
+.carousel-image1{
+  height:180px;
+  width:340px;
+  position:relative;
+  left:6px;
+  top:6px;
+}
+.Carousel1:hover{
+  transform: scale(1.1); 
+  transition: transform 0.3s;
+}
+.carousel-image2{
+  height:180px;
+  width:340px;
+  position:relative;
+  left:4px;
+  top:3px;
+  }
+.Carousel{
+background-color:#3d4045; 
+display:flex;
+padding-left:70px;
+position:relative;
+}
+.Carousel_Heading{
+  color:rgb(194, 185, 185);
+  font-size:20px;
+  position:relative;
+  top:15px;
+  left:7px;
+  font-weight:300;
+}
+.Carousel_para{
+color:rgb(194, 185, 185);
+font-size:17px;
+font-weight:400;
+padding-left:7px;
+margin-block-start:0;
+margin-block-end: 0;
+position:relative;
+top:25px;
+}

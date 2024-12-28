@@ -1,0 +1,87 @@
+body{
+overflow-x: hidden;
+height:2000px;
+}
+
+.contact-container {
+width: 400px;
+height: 410px;
+padding: 20px;
+background-color: #2C2545;
+border-radius: 10px;
+position:relative;
+left:800px;
+bottom:420px;
+padding-top:40px; 
+}
+
+
+.section-title {
+    text-align: center;
+    font-size: 24px;
+    background-color: #2D0B37;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.form-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.form-group textarea {
+    resize: none;
+    height: 100px;
+}
+.submit-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #D41D5D;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.submit-btn:hover {
+    background-color: #B8174A;
+}
+.SignUp{
+background-color:#3d4045;
+height:600px;
+}
+.iframe{
+margin-left:90px;
+height:420px;
+}
+.Visit{
+border:2px solid black;
+height:40px;
+width:200px;
+border-radius:35px;
+background-color:black;
+position:relative;
+left:200px;
+top:25px;
+margin-block-start:0;
+margin-block-end: 0;
+}
+.visit{
+font-size:24px;
+font-weight:700;
+color:white;
+position:relative;
+top:3px;
+left:50px;
+bottom:8px;
+width:100px;
+border:2px solid black;
+}
